@@ -11,12 +11,12 @@ BeautifulSoup
 Pandas
 
 ## How to use
-1. Clone the Project and make a file in the root called "facebook_credentials.txt".
+1. Clone the Project and make a file in the root called `facebook_credentials.txt`
 2. Enter your credentials in this format:
 email = "EMAIL"
 password = "PASSWORD"
 3. Change the keywords and pages you want to scrape in the WebScrape.py
-4. Type "python3/python WebScrape.py" in the Terminal
+4. Type `python3/python WebScrape.py` in the Terminal
 5. The output will be a data.xlsx file which includes all the data in an excel sheet
 
 ## Limitations
